@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.d46a1635.chunk.css",
-    "main.js": "./static/js/main.85dcb960.chunk.js",
-    "main.js.map": "./static/js/main.85dcb960.chunk.js.map",
+    "main.js": "./static/js/main.1574a4a9.chunk.js",
+    "main.js.map": "./static/js/main.1574a4a9.chunk.js.map",
     "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
     "static/js/2.302e92a2.chunk.js": "./static/js/2.302e92a2.chunk.js",
     "static/js/2.302e92a2.chunk.js.map": "./static/js/2.302e92a2.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5df9d2cf728588b147f7451aa4941872.js": "./precache-manifest.5df9d2cf728588b147f7451aa4941872.js",
+    "precache-manifest.2d1a8a1276907636ede428d1ed4aea63.js": "./precache-manifest.2d1a8a1276907636ede428d1ed4aea63.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.d46a1635.chunk.css.map": "./static/css/main.d46a1635.chunk.css.map",
     "static/media/yaoming.png": "./static/media/yaoming.b3356bbe.png"
